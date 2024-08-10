@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+numpy
+Pillow
+keras
+keras-facenet
+mtcnn
+scikit-learn
+seaborn
